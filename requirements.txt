@@ -1,0 +1,7 @@
+pandas
+spacy
+wordcloud
+twint
+nest_asyncio
+numpy
+scikit-learn
